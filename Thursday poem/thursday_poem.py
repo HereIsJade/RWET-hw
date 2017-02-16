@@ -35,4 +35,4 @@ for num in range(0,16):
     get_poems(base_url,num)
     time.sleep(0.8)
 
-driver.quit()
+# driver.quit()
