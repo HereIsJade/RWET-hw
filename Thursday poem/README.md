@@ -1,15 +1,16 @@
 # Thursday poems
 
-Then I remembered that it's Thursday
-It's always Thursdays
-Sometimes Thursdays have been fine
-But when a day of the week hasn't been fine,It's been a Thursday
-Thursdays should be good
-It's a Thursday
+<p>Then I remembered that it's Thursday</p>
+<p>It's always Thursdays</p>
+<p>Sometimes Thursdays have been fine</p>
+<p>But when a day of the week hasn't been fine,</p>
+<p>It's been a Thursday</p>
+<p>Thursdays should be good</p>
+<p>It's a Thursday<p/>
 
-Nothing special, to me its Thursday
+<p>Nothing special, to me its Thursday</p>
 
-Your chords on Saturday afternoons,
-your hugs on Sunday morning,
-your smiles on Monday chats,
-your kisses on Thursday nights
+<p>Your chords on Saturday afternoons,</p>
+<p>your hugs on Sunday morning,</p>
+<p>your smiles on Monday chats,</p>
+<p>your kisses on Thursday nights</p>
