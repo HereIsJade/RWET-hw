@@ -6911,3 +6911,49 @@ JavaScript error: https://www.brainyquote.com/quotes/authors/d/drake.html, line 
 JavaScript error: https://www.brainyquote.com/quotes/authors/d/drake.html, line 1: SyntaxError: expected expression, got '<'
 JavaScript error: https://www.brainyquote.com/quotes/authors/d/drake.html, line 1: SyntaxError: expected expression, got '<'
 JavaScript error: https://www.brainyquote.com/quotes/authors/d/drake.html, line 1: SyntaxError: expected expression, got '<'
+1493272250293	geckodriver	INFO	Listening on 127.0.0.1:57354
+1493272251351	mozprofile::profile	INFO	Using profile path /var/folders/52/t23_fzs558gdby4cs9_w28yh0000gn/T/rust_mozprofile.ek4LfdIFbIPh
+1493272251353	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493272251436	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57364
+1493272252804	Marionette	INFO	Listening on port 57364
+[Child 41099] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 41099] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1493279723331	geckodriver	INFO	Listening on 127.0.0.1:64993
+1493279724506	mozprofile::profile	INFO	Using profile path /var/folders/52/t23_fzs558gdby4cs9_w28yh0000gn/T/rust_mozprofile.Wu2GJ9wkLaPR
+1493279724509	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493279724562	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65003
+1493279726090	Marionette	INFO	Listening on port 65003
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493282966613	geckodriver	INFO	Listening on 127.0.0.1:52122
+1493282967703	mozprofile::profile	INFO	Using profile path /var/folders/52/t23_fzs558gdby4cs9_w28yh0000gn/T/rust_mozprofile.uJACiVMWvsBD
+1493282967707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1493282967714	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52132
+1493282968936	Marionette	INFO	Listening on port 52132
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.brainyquote.com/quotes/authors/b/barack_obama.html, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://cdn.adrta.com/p.js?rcb=1493282991078_150043&cb=1493282984359#ss;paid=ss;avid=104315;caid=502606;publisherId=791529;plid=1632655;segment=704,1600,705,1601,706,707,708,972,2480,634,698,699,700,701,702,703,1599;kv4=96.232.36.109;kv14=;kv1=300x250;siteId=2078506;kv7=39;kv15=UNKNOWN;kv16=;kv17=;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv23={carrier};kv11=5901b0a874f3e7f101250027;kv3=;kv2=https%3A%2F%2Fwww.brainyquote.com%2Fquotes%2Fauthors%2Fb%2Fbarack_obama.html, line 1: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: https://cdn.adrta.com/p.js?rcb=1493283036588_926618&cb=1493282998839#ss;paid=ss;avid=110025;caid=498597;publisherId=0;plid=1621933;segment=704,1600,1601,705,706,707,708,972,2480,698,699,700,701,702,1599,703;kv4=96.232.36.0;kv14=;kv1=300x250;siteId=41406095;kv7=8;kv15=UNKNOWN;kv16=40.6356201171875;kv17=-74.01237487792969;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv23={carrier};kv11=5901b0b6faff13b201220008;kv3=;kv2=https%3A%2F%2Fwww.brainyquote.com%2Fquotes%2Fauthors%2Fb%2Fbarack_obama.html, line 1: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+[NPAPI 43639] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 43639] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 43638] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 43638] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 42988] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 42988] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
