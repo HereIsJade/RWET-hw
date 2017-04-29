@@ -1,6 +1,7 @@
 from __future__ import unicode_literals
 import spacy
 import quoteScraper
+# from textblob import TextBlob
 import random
 
 nlp = spacy.load('en')
@@ -31,7 +32,7 @@ def getQA(name):
     questions=[]
     answers=[]
     for i in range(10):
-        question_list=[random.choice(wordDict['adjs']),random.choice(wordDict['nouns']),random.choice(wordDict['verbs']),random.choice(wordDict['advs']),random.choice(wordDict['adjs']),random.choice(wordDict['prons']),random.choice(wordDict['advs'])]
+        question_list=[random.choice(wordDict['adjs']),random.choice(wordDict['nouns']),random.choice(wordDict['verbs']),random.choice(wordDict['advs']),random.choice(wordDict['adjs']),random.choice(wordDict['prons']),random.choice(wordDict['verbs']),random.choice(wordDict['advs'])]
 
         question=" ".join(question_list)
 
@@ -40,7 +41,11 @@ def getQA(name):
 
         answer=" ".join(answer_list)
         answer=answer[0].upper()+answer[1:]+'.'
+        # answer = TextBlob(answer).correct()
+
         question="What if "+question+"?"
+        # question=TextBlob(question).correct()
+
         questions.append(question)
         answers.append(answer)
     return questions, answers

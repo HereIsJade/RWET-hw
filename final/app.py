@@ -1,4 +1,6 @@
+import markdown
 from flask import Flask, request,render_template
+from flask import Markup
 import quoteScraper as qs
 import textGenerator as tg
 
@@ -21,12 +23,13 @@ def create():
     q,answers=tg.getQA(nameA)
     QandA=''
     for i in range(10):
-        question=questions[i]+"<br/>"
-        answer=answers[i]+"<br/>"
+        question=questions[i]+"<br>"
+        answer=answers[i]+"<br>"
 
         QandA=QandA+question+answer
+        content=Markup(markdown.markdown(QandA))
 
-    return render_template('home.html',QandA=QandA)
+    return render_template('home.html',QandA=content)
 
 if __name__ =='__main__':
     app.run(debug=True)
