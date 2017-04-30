@@ -36,14 +36,3 @@ def scrape(nameStr):
           txtFile.write("%s\n" % item)
 
     return getFilename(nameStr)
-
-
-
-
-# lines=[]
-#
-# for sentence in rickScripts:
-#     sentence=sentence.replace('"','')
-#     lines.append(sentence)
-#
-# print '\n'.join(markov.word_level_generate(lines, 3, count=8))
